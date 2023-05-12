@@ -1,4 +1,4 @@
-## This project is deprecated. Please refer to the updated project at https://github.com/abdulpara5252/angular-i18n-localization-master
+## This project is deprecated. Please refer to the updated project at https://github.com/abdulpara5252/angular-i18n-localization
 
 # I18nDemo
 
